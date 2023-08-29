@@ -1,59 +1,77 @@
-# client
+<div align="center">
 
-<div align="center" style="margin: 30px;">
-    <a href="https://refine.dev">
-    <img src="https://refine.ams3.cdn.digitaloceanspaces.com/refine_logo.png"  align="center" />
-    </a>
+  
+  
+  
+  <p>
+Admin Panel Client Side (Navigation, Redux, Material UI)
+  </p>
+  
 </div>
-<br/>
 
-This [refine](https://github.com/pankod/refine) project was generated with [superplate](https://github.com/pankod/refine).
+<!-- About the Project -->
+
+## :star2: About the Project
+
+* This is a web application built using React JS, which provides a platform for admin to see the data at their dashboard. The application uses various features to enhance the user experience, such as popular UI frameworks.
+
+* The application fetches data from a third-party API using Axios and displays data in a user-friendly interface.
+
+## Features
+* Develop visually appealing UI/UX designs
+* Fetch data from an external API and integrate it
+* Implement search & pagination functionality
+* Create customAPI data fetching hooks
+* Write clean, organized, and maintainable code with proper architecture
+* Follow the best practices for React JS development
+
+## Technologies Used
+* React JS
+* Refine 
+* Material UI
+* Apex Charts
+
 
 ## Getting Started
 
-**refine** is a React-based framework for building data-intensive applications in no time ✨
+## Prerequisites
+To run the app, you will need to have the following installed on your machine:
 
-Refine offers lots of out-of-the box functionality for rapid development, without compromising extreme customizability. Use-cases include, but are not limited to admin panels, B2B applications and dashboards.
+* Node.js
+* npm
 
-## Available Scripts
 
-### Running the development server.
 
-```bash
-    npm run dev
-```
-
-### Building for production.
+Clone the project
 
 ```bash
-    npm run build
+  https://github.com/muddasir03/Admin-Panel-Client-Side.git
 ```
 
-### Running the production server.
+change directory
 
 ```bash
-    npm run start
+  cd Admin-Panel-Client-Side
 ```
 
-## Learn More
+Install dependencies
 
-To learn more about **refine**, please check out the [Documentation](https://refine.dev/docs)
+```bash
+  npx install
+```
 
-- **REST Data Provider** [Docs](https://refine.dev/docs/core/providers/data-provider/#overview)
-- **Material UI** [Docs](https://refine.dev/docs/ui-frameworks/mui/tutorial/)
-- **Inferencer** [Docs](https://refine.dev/docs/packages/documentation/inferencer)
-- **Material UI Custom Theme** [Docs](https://refine.dev/docs/ui-frameworks/mui/customization/mui-custom-theme/)
-- **Custom Layout** [Docs](https://refine.dev/docs/ui-frameworks/mui/customization/mui-custom-layout/)
-- **Material UI Light/Dark Mode** [Docs](https://refine.dev/docs/ui-frameworks/mui/customization/mui-custom-theme/)
-- **React Router** [Docs](https://refine.dev/docs/core/providers/router-provider/)
-- **Google Auth Provider** [Docs](https://refine.dev/docs/core/providers/auth-provider/)
+Start the server
+
+```bash
+  npx start
+```
+
+<hr />
 
 
-## License
-
-MIT
 ## :handshake: Contact
 
 Email ID- muddasarhussain739@gmail.com
 
-Project Link : https://github.com/muddasir03/Admin-Panel-Client-Side/
+Project Link : https://github.com/muddasir03/Admin-Panel-Client-Side.git
+
